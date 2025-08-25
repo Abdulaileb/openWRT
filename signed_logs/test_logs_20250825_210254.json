@@ -1,0 +1,56 @@
+{
+  "version": "1.0",
+  "batch_id": "test_batch_20250825_210254",
+  "created": "2025-08-25T21:02:54.956147Z",
+  "message_count": 3,
+  "messages": [
+    {
+      "version": "1.0",
+      "message_id": "87f82e92805757f0",
+      "timestamp": "2025-08-25T21:02:54.862837Z",
+      "original_message": "<130>Aug 23 14:33:00 firewall test: Additional test log 0",
+      "signature": {
+        "algorithm": "ed25519",
+        "key_id": "test_signer_v1",
+        "value": "2651ebc4b886493b832a730ea5d6a148394a64a91672686d4658b56af7e8e60606b75a69c778d9d1bf257f5d5192f9b43108c3ef3f3d8bbc69383eb833f7b80d"
+      },
+      "public_key_info": {
+        "key_id": "test_signer_v1",
+        "algorithm": "ed25519",
+        "public_key": "7b684eee77bd94af0f9b24a020c1cb677aef143eb53c3ffca24509d2c1ca7166"
+      }
+    },
+    {
+      "version": "1.0",
+      "message_id": "da8300631af356ca",
+      "timestamp": "2025-08-25T21:02:54.888562Z",
+      "original_message": "<131>Aug 23 14:33:01 firewall test: Additional test log 1",
+      "signature": {
+        "algorithm": "ed25519",
+        "key_id": "test_signer_v1",
+        "value": "fcc26d2462f8a39f5727caf1bb7611343a081f128e52ba7a6d48bc0d6268b561cd3cfb0e9070dc17097daf1a7dc0d1fe1011bb1ebb4821ace324bef99b377300"
+      },
+      "public_key_info": {
+        "key_id": "test_signer_v1",
+        "algorithm": "ed25519",
+        "public_key": "7b684eee77bd94af0f9b24a020c1cb677aef143eb53c3ffca24509d2c1ca7166"
+      }
+    },
+    {
+      "version": "1.0",
+      "message_id": "72a24d42d333578a",
+      "timestamp": "2025-08-25T21:02:54.942039Z",
+      "original_message": "<132>Aug 23 14:33:02 firewall test: Additional test log 2",
+      "signature": {
+        "algorithm": "ed25519",
+        "key_id": "test_signer_v1",
+        "value": "1278bc1ed61c555a2dc354dfb24f0373ed52e0e2b51256ecf92ec875cd1bc20d989c46c42ad4015a44a07b6dc0046aacae9ac9f56276eb3a5fc963a50200e002"
+      },
+      "public_key_info": {
+        "key_id": "test_signer_v1",
+        "algorithm": "ed25519",
+        "public_key": "7b684eee77bd94af0f9b24a020c1cb677aef143eb53c3ffca24509d2c1ca7166"
+      }
+    }
+  ]
+}

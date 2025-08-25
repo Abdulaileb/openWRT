@@ -1,0 +1,88 @@
+{
+  "version": "1.0",
+  "batch_id": "test_batch_20250825_210252",
+  "created": "2025-08-25T21:02:52.812958Z",
+  "message_count": 5,
+  "messages": [
+    {
+      "version": "1.0",
+      "message_id": "3ed990dc2ff8ea91",
+      "timestamp": "2025-08-25T21:02:52.801466Z",
+      "original_message": "<134>Aug 23 14:32:00 firewall auth: SSH failed login from 192.168.1.100\",",
+      "signature": {
+        "algorithm": "ed25519",
+        "key_id": "test_signer_v1",
+        "value": "3208c7cf0a8b46b09b26be41c72239eb1523d4b141216c9ccf86631028a9c1c45ffdbd73053273020c6fb85199f7ea77444a05697ca636aeadd0de8eff90160a"
+      },
+      "public_key_info": {
+        "key_id": "test_signer_v1",
+        "algorithm": "ed25519",
+        "public_key": "7b684eee77bd94af0f9b24a020c1cb677aef143eb53c3ffca24509d2c1ca7166"
+      }
+    },
+    {
+      "version": "1.0",
+      "message_id": "e7f3bb9a2c3a7fc3",
+      "timestamp": "2025-08-25T21:02:52.803500Z",
+      "original_message": "<131>Aug 23 14:32:01 firewall auth: SSH failed login from 192.168.1.100\",",
+      "signature": {
+        "algorithm": "ed25519",
+        "key_id": "test_signer_v1",
+        "value": "2b1df541054c9eac290b1250717d22e7e107f0b946fbac2bef1b5eb9a6bb8065ca8fac560ec592005bd334044aaca174230cd766c9f3f9325c4d7d7e7c67100f"
+      },
+      "public_key_info": {
+        "key_id": "test_signer_v1",
+        "algorithm": "ed25519",
+        "public_key": "7b684eee77bd94af0f9b24a020c1cb677aef143eb53c3ffca24509d2c1ca7166"
+      }
+    },
+    {
+      "version": "1.0",
+      "message_id": "21917122f9642e7e",
+      "timestamp": "2025-08-25T21:02:52.804815Z",
+      "original_message": "<130>Aug 23 14:32:02 firewall auth: SSH failed login from 192.168.1.100\",",
+      "signature": {
+        "algorithm": "ed25519",
+        "key_id": "test_signer_v1",
+        "value": "4e0b928b8f6e4055d5ce4574b43fb913c3acc76891737c3b85d1b8b05b2d328897d11e5446476222275bb6751cc41c96ef09d6b7e44b92d0f6a5b5bf1cd16603"
+      },
+      "public_key_info": {
+        "key_id": "test_signer_v1",
+        "algorithm": "ed25519",
+        "public_key": "7b684eee77bd94af0f9b24a020c1cb677aef143eb53c3ffca24509d2c1ca7166"
+      }
+    },
+    {
+      "version": "1.0",
+      "message_id": "55c8cd8f01855207",
+      "timestamp": "2025-08-25T21:02:52.805793Z",
+      "original_message": "<129>Aug 23 14:32:03 firewall auth: SSH successful login from 192.168.1.50\",",
+      "signature": {
+        "algorithm": "ed25519",
+        "key_id": "test_signer_v1",
+        "value": "a3929697f4887d65f585219dc082ec3589d3d2c698bfb2bc5bd6553fa14fff74811a81086aa4193a4add64a5550ceead870f91fe229425c750c06d5174e0e708"
+      },
+      "public_key_info": {
+        "key_id": "test_signer_v1",
+        "algorithm": "ed25519",
+        "public_key": "7b684eee77bd94af0f9b24a020c1cb677aef143eb53c3ffca24509d2c1ca7166"
+      }
+    },
+    {
+      "version": "1.0",
+      "message_id": "bb8fb66f7809b9b5",
+      "timestamp": "2025-08-25T21:02:52.807383Z",
+      "original_message": "<120>Aug 23 14:32:04 firewall kernel: Firewall rule triggered\",",
+      "signature": {
+        "algorithm": "ed25519",
+        "key_id": "test_signer_v1",
+        "value": "57ffc6eedd136dda86cf8dee9d3eec6827b98ec3ce7cf4b2b552f00000b6a3afedd6074899710a87ba8c3212fc61a4d6a0c2d57191329d703eb883e072b89f0a"
+      },
+      "public_key_info": {
+        "key_id": "test_signer_v1",
+        "algorithm": "ed25519",
+        "public_key": "7b684eee77bd94af0f9b24a020c1cb677aef143eb53c3ffca24509d2c1ca7166"
+      }
+    }
+  ]
+}
